@@ -9,4 +9,5 @@
 8-firstdelete script Delete the file betty in /tmp/my_first_directory.
 9-firstdirdeletion script delete directory my_first_directory in /tmp.
 10-back scrpit changes the working directory to the previous one.
+11-lists script lists all files in the current directory and the parent of the working directory and the /boot, in long format.
 
