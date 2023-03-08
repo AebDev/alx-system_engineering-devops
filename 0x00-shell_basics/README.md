@@ -8,4 +8,5 @@
 7-movethatfile script move the file named betty from /tmp/ to /tmp/my_first_directory.
 8-firstdelete script Delete the file betty in /tmp/my_first_directory.
 9-firstdirdeletion script delete directory my_first_directory in /tmp.
+10-back scrpit changes the working directory to the previous one.
 
